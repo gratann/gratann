@@ -34,5 +34,3 @@ A passionate developer and tech enthusiast interested in **Machine Learning**, *
 
 ---
 
-## 🚀 Fun Fact  
-I love exploring new technologies and applying them to solve real-world problems!  
