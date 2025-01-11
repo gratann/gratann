@@ -2,7 +2,7 @@
 A passionate developer and tech enthusiast interested in **Machine Learning**, **Python**, **Java**, **React**, **Node.js**, **DSA**, **MySQL**, and **MongoDB**.
 ---
 
-![Banner](https://your-image-link-here.com/banner.png)
+![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
 
 ---
 ---
