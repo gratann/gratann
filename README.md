@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm [Your Name]
+A passionate [Your Role, e.g., frontend developer] from [Your Country].
+
+## 🌱 Currently learning
+- [React Native or any technology you're learning]
+
+## 📫 How to reach me
+- [Your email]
+
+## 💻 Connect with me
+[Insert social links like LinkedIn, Twitter, etc.]
+
+## 🛠️ Languages and Tools
+![Language/Tool](https://img.shields.io/badge/-[Language/Tool]-[Color]?logo=[Tool-Logo]&logoColor=white)
+
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true)](https://github.com/<your-github-username>)
