@@ -2,7 +2,6 @@
 A passionate developer and tech enthusiast interested in **Natural Language Toolkit**, **Generative AI**,**Machine Learning**,  **Image Classification**, **Data Structures**, **& Algorithms**.
 ---
 
-![Banner](banner-image.png)
 
 ---
 ---
